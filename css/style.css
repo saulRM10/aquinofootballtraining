@@ -226,7 +226,7 @@ h6,
 .phone-logo {
   max-width: 100%;
   height: auto;
-  max-height: 90px; /* Adjust as needed */
+  max-height: 140px; /* Adjust as needed */
 }
 
 @media (min-width: 991.98px) {
